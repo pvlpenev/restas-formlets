@@ -1,0 +1,1 @@
+This is a convenience library to make [Formlets](https://github.com/Inaimathi/formlets) work with [restas](http://restas.lisper.ru). It exports the same symbols, but defines restas routes, instead of hunchentoot easy-handlers, so should be used within a restas module.
